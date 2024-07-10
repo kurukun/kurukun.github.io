@@ -13,14 +13,14 @@
       
       <categories>
           
-          <category> 人工智能 </category>
+          <category> 学习 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 科研 </tag>
+            <tag> NLP </tag>
             
         </tags>
       
@@ -63,10 +63,16 @@
       
       <categories>
           
-          <category> 前端 </category>
+          <category> 学习 </category>
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> 博客 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -82,7 +88,7 @@
       
       <categories>
           
-          <category> 其他 </category>
+          <category> 学习 </category>
           
       </categories>
       

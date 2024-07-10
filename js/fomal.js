@@ -1312,11 +1312,11 @@ document.addEventListener('pjax:complete', function () {
   document.addEventListener('visibilitychange', function () {
     if (document.hidden) {
       //离开当前页面时标签显示内容
-      document.title = '🥺人呢人呢🥺';
+      document.title = '人呢人呢';
       clearTimeout(titleTime);
     } else {
       //返回当前页面时标签显示内容
-      document.title = '😇欢迎回来😇';
+      document.title = '欢迎回来';
       //两秒后变回正常标题
       titleTime = setTimeout(function () {
         document.title = OriginTitile;
@@ -3165,10 +3165,10 @@ document.addEventListener('pjax:complete', function () {
     setBg(localStorage.getItem("blogbg"));
   } else {
     document.getElementById("defineBg").innerText = `:root{
-      --default-bg: url(https://picbed.otakuru.top/light.webp);
-      --darkmode-bg:url(https://picbed.otakuru.top/dark.webp);
-      --mobileday-bg: url(https://picbed.otakuru.top/mlight.webp);
-      --mobilenight-bg: url(https://picbed.otakuru.top/mdark.webp);
+      --default-bg: url(https://picbed.otakuru.cn/light.webp);
+      --darkmode-bg:url(https://picbed.otakuru.cn/dark.webp);
+      --mobileday-bg: url(https://picbed.otakuru.cn/mlight.webp);
+      --mobilenight-bg: url(https://picbed.otakuru.cn/mdark.webp);
     }`;
   }
   // 切换背景主函数
