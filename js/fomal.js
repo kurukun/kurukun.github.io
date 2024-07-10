@@ -3393,21 +3393,21 @@ document.addEventListener('pjax:complete', function () {
   <h3>1. 二次元</h3>
   <details class="folding-tag" cyan><summary> 查看二次元背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.top/img/moe/m1.webp)" class="imgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/moe/m1.webp)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.top/img/moe/m2.webp)" class="imgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/moe/m2.webp)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.top/img/moe/m3.webp)" class="imgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/moe/m3.webp)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.top/img/moe/m4.webp)" class="imgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/moe/m4.webp)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.top/img/moe/m5.webp)" class="imgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/moe/m5.webp)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.top/img/moe/m6.webp)" class="imgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/moe/m6.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.cn/img/moe/m1.webp)" class="imgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/moe/m1.webp)')"></a></div>
               </div>
             </details>
   
   <h3>2. 风景</h3>
   <details class="folding-tag" cyan><summary> 查看风景背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.top/img/scene/s1.webp)" class="imgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/scene/s1.webp)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.top/img/scene/s2.webp)" class="imgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/scene/s2.webp)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.top/img/scene/s3.webp)" class="imgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/scene/s3.webp)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.top/img/scene/s4.webp)" class="imgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/scene/s4.webp)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.top/img/scene/s5.webp)" class="imgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/scene/s5.webp)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.top/img/scene/s6.webp)" class="imgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/scene/s6.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.cn/img/scene/s1.webp)" class="imgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/scene/s1.webp)')"></a></div>
               </div>
             </details>
   
   <h3>3. 萌宠</h3>
   <details class="folding-tag" cyan><summary> 查看萌宠背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.top/img/pet/p1.webp)" class="imgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/pet/p1.webp)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.top/img/pet/p2.webp)" class="imgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/pet/p2.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.cn/img/pet/p1.webp)" class="imgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/pet/p1.webp)')"></a></div>
               </div>
             </details>
   
@@ -3431,7 +3431,7 @@ document.addEventListener('pjax:complete', function () {
   <h3>6. 适配手机</h3>
   <details class="folding-tag" cyan><summary> 查看适配手机的背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.top/img/mobile/p1.webp)" class="pimgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/mobile/p1.webp)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.top/img/mobile/p2.webp)" class="pimgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/mobile/p2.webp)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.top/img/mobile/p3.webp)" class="pimgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/mobile/p3.webp)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.top/img/mobile/p4.webp)" class="pimgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/mobile/p4.webp)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.top/img/mobile/p5.webp)" class="pimgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/mobile/p5.webp)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.top/img/mobile/p6.webp)" class="pimgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/mobile/p6.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.otakuru.cn/img/mobile/p1.webp)" class="pimgbox" onclick="changeBg('url(https://picbed.otakuru.top/img/mobile/p1.webp)')"></a></div>
               </div>
             </details>
   
