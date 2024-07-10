@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.otakuru.cn/life/music/index.html</loc>
+    
+    <lastmod>2024-07-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.otakuru.cn/posts/58d3bb7c.html</loc>
+    
+    <lastmod>2024-07-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.otakuru.cn/posts/af6253db.html</loc>
     
     <lastmod>2024-07-10</lastmod>
@@ -29,15 +47,6 @@
   </url>
   
   <url>
-    <loc>https://www.otakuru.cn/posts/58d3bb7c.html</loc>
-    
-    <lastmod>2024-07-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.otakuru.cn/pics/articlePic/index.html</loc>
     
     <lastmod>2024-07-10</lastmod>
@@ -48,15 +57,6 @@
   
   <url>
     <loc>https://www.otakuru.cn/pics/selfCollect/index.html</loc>
-    
-    <lastmod>2024-07-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.otakuru.cn/life/music/index.html</loc>
     
     <lastmod>2024-07-10</lastmod>
     
@@ -117,6 +117,13 @@
   </url>
   
   <url>
+    <loc>https://www.otakuru.cn/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2024-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.otakuru.cn/tags/%E6%97%A5%E8%AF%AD/</loc>
     <lastmod>2024-07-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -125,13 +132,6 @@
   
   <url>
     <loc>https://www.otakuru.cn/tags/NLP/</loc>
-    <lastmod>2024-07-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.otakuru.cn/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2024-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
